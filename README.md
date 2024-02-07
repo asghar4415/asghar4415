@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋<br>I am Asghar Ali</h1>
+<h1 align="center">Hey there 👋<br>I am Asghar Ali</h1>
 
 ###
 
@@ -12,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a frontend developer and a CS student from Pakistan.<br><br>🔭 I’m currently doing my bachelors in Computer science from FAST Nuces.<br>🌱 I’m currently learning Frontend development.</p>
+<p align="left">I'm a frontend developer and a CS student from Pakistan.<br><br>🔭 I’m currently doing my bachelors in Computer science from FAST Nuces.</p>
 
 ###
 
@@ -23,8 +17,7 @@
   <a href="https://www.instagram.com/asghar_hun/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  
-  <a href="mailto:asgharali.224415@gmail.com" target="_blank">
+  <a href="asgharali.224415@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -59,6 +52,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
