@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asghar4415" alt="asghar4415" /></a> </p>
 
-- 🔭 I’m currently working on [Haazri](https://github.com/asghar4415/haazri)
+- 🔭 I’m currently working on [Realtime Device Tracker](https://github.com/asghar4415/realtime-device-tracker-frontend)
 
 - 🌱 I’m currently learning **Nextjs**
 
